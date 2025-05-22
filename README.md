@@ -1,8 +1,6 @@
-# Fitting Poisson  distribution
 ### NAME: Sri Srinivasan.K
 ### REG NO: 212224220104
-### DATE: 29/04/2025
-#
+# Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
