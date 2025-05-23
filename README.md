@@ -1,4 +1,4 @@
-### NAME: Sri Srinivasan.K
+### NAME: SRI SRINIVASAN K
 ### REG NO: 212224220104
 # Fitting Poisson  distribution
 # Aim : 
